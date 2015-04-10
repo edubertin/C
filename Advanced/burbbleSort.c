@@ -32,6 +32,6 @@ int main(void){
 	printf("Vector with sorting by: \n");
 	for(i = 0;i < max;i++) printf("| %d |", vector[i]);
 	
-	return 1;
+	return 0;
 	
 };
